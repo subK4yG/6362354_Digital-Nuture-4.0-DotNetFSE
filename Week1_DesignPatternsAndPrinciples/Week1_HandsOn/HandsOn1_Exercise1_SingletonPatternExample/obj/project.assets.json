@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\6362354_Digital-Nuture-4.0-DotNetFSE\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj",
-      "projectName": "SingletonPatternExample",
-      "projectPath": "C:\\Users\\KIIT\\6362354_Digital-Nuture-4.0-DotNetFSE\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\6362354_Digital-Nuture-4.0-DotNetFSE\\Week1_DesignPatternsAndPrinciples\\Week1_HandsOn\\HandsOn1_Exercise1_SingletonPatternExample\\HandsOn1_Exercise1_SingletonPatternExample.csproj",
+      "projectName": "HandsOn1_Exercise1_SingletonPatternExample",
+      "projectPath": "C:\\Users\\KIIT\\6362354_Digital-Nuture-4.0-DotNetFSE\\Week1_DesignPatternsAndPrinciples\\Week1_HandsOn\\HandsOn1_Exercise1_SingletonPatternExample\\HandsOn1_Exercise1_SingletonPatternExample.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\6362354_Digital-Nuture-4.0-DotNetFSE\\Design Patterns and Principles\\SingletonPatternExample\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\6362354_Digital-Nuture-4.0-DotNetFSE\\Week1_DesignPatternsAndPrinciples\\Week1_HandsOn\\HandsOn1_Exercise1_SingletonPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

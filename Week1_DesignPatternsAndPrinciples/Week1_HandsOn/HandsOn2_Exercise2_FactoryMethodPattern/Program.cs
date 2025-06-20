@@ -1,6 +1,6 @@
 ﻿using System;
-using FactoryMethodPattern.Documents;
-namespace FactoryMethodPattern
+using HandsOn2_Exercise2_FactoryMethodPattern.Documents;
+namespace HandsOn2_Exercise2_FactoryMethodPattern
 {
     class Program
     {

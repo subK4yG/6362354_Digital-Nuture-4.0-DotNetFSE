@@ -1,4 +1,4 @@
-namespace SingletonPatternExample.src
+namespace HandsOn1_Exercise1_SingletonPatternExample.src
 {
     public class Logger
     {
