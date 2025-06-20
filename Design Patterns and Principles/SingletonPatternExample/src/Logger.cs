@@ -3,12 +3,10 @@ namespace SingletonPatternExample.src
     public class Logger
     {
         private static Logger instance;
-
         private Logger()
         {
             Console.WriteLine("Logger instance created.");
         }
-
         public static Logger GetInstance()
         {
             if (instance == null)
@@ -17,7 +15,6 @@ namespace SingletonPatternExample.src
             }
             return instance;
         }
-
         public void Log(string message)
         {
             Console.WriteLine("Log: " + message);

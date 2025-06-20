@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using SingletonPatternExample.src;
 namespace SingletonPatternExample
 {
@@ -8,6 +8,7 @@ namespace SingletonPatternExample
         {
             Logger logger1 = Logger.GetInstance();
             logger1.Log("First message");
+
             Logger logger2 = Logger.GetInstance();
             logger2.Log("Second message");
 
