@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using SingletonPatternExample.src;
 namespace SingletonPatternExample
 {
@@ -10,6 +10,7 @@ namespace SingletonPatternExample
             logger1.Log("First message");
             Logger logger2 = Logger.GetInstance();
             logger2.Log("Second message");
+
             if (logger1 == logger2)
             {
                 Console.WriteLine("Both logger instances are the same (Singleton works).");
