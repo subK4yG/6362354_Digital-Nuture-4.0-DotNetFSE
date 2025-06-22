@@ -1,0 +1,30 @@
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.exe
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.deps.json
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.runtimeconfig.json
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.pdb
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.sourcelink.json
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\refint\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.pdb
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Design Patterns and Principles\AdapterPatternExample\obj\Debug\net9.0\ref\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.exe
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.deps.json
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.runtimeconfig.json
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.pdb
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.sourcelink.json
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\refint\AdapterPatternExample.dll
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.pdb
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\6362354_Digital-Nuture-4.0-DotNetFSE\Week1_DesignPatternsAndPrinciples\AdapterPatternExample\obj\Debug\net9.0\ref\AdapterPatternExample.dll
