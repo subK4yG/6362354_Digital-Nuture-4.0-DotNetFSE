@@ -15,7 +15,7 @@ namespace BuilderPatternExample
         }
         public override string ToString()
         {
-            return $"CPU: {CPU}, RAM: {RAM}, Storage: {Storage}, GPU: {GPU}";
+            return $"CPU: {CPU}, RAM: {RAM}, Storage: {Storage}, GPU: {(string.IsNullOrEmpty(GPU) ? "None" : GPU)}";
         }
         public class Builder
         {
