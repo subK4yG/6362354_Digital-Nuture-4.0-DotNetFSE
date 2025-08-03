@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.section {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.divider {
+  width: 2px;
+  background-color: green;
+  margin: 0 10px;
+}
